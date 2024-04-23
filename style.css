@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+header{
+    background-color:rgb(81, 194, 247);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px black;
+
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+main{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.section {
+    color: white;
+    background-color:rgb(81, 194, 247) ;
+    font-style: italic;
+    padding: 10px; 
+    margin: 0px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+footer {
+    background-color:rgb(81, 194, 247);
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px black;
+
+}
